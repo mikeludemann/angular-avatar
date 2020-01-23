@@ -1,2 +1,2 @@
 # angular-avatar
-A n avatar component with Angular
+An avatar component with Angular
